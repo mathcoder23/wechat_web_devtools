@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=微信小程序 
+Comment=快乐开发
+Exec=/home/xxx/software/wechat_web_devtools-master/bin/wxdt
+Icon=/home/xxx/software/wechat_web_devtools-master/wx.png
+Type=Application
+Terminal=false
+Encoding=UTF-8
